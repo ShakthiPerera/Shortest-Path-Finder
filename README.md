@@ -6,9 +6,10 @@ Visual Representation of some of the Path finding algorithms.This was built with
 Your first left mouse click will indicate the your start node and the second will indicate end node   after the third time your right mouse clikcing will indicate walls,if you want to delete a node or a wall you can do that by clicking the left mouse button on the node or wall that you want to remove.
 
 ## Visualizing the algorithm
-for ,
-  Floodfill click the F button
-  A star click the A button
-  DFS click D button
+
+for ,\n
+  Floodfill click the F button \n
+  A star click the A button \n
+  DFS click D button \n
   To Clear the all click C button
   
