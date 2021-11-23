@@ -7,9 +7,11 @@ Your first left mouse click will indicate the your start node and the second wil
 
 ## Visualizing the algorithm
 
-for ,\n
-  Floodfill click the F button \n
-  A star click the A button \n
-  DFS click D button \n
-  To Clear the all click C button
+Algorithm     | Button
+------------- | -------------
+Floodfill     | F
+A star        | A
+DFS           | D
+
+To Clear the all click __C__ button
   
